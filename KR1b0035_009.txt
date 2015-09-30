@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書句解
-#+DATE: 2015-09-23 09:36:10
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:02:59.446585
+#+PROPERTY: ID KR1b0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1b0035_WYG_009-1a>¶
 欽定四庫全書¶
 　尚書句解卷九¶
@@ -272,4 +274,3 @@
 怨有同(泃怨詈一人耳今乃/怨惡之心同於天下)是叢于厥身(是其怨且將/叢聚於一人)¶
 (之身/矣)周公曰嗚呼(公又/歎言)嗣王其監于兹(呼成王其當監/觀我此篇之言)¶
 　尚書句解卷九¶
-

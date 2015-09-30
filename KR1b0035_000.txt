@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書句解
-#+DATE: 2015-09-23 09:36:10
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:02:59.273408
+#+PROPERTY: ID KR1b0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1b0035_WYG_000-1a>¶
 欽定四庫全書　　　　　經部二¶
 　尚書句解　　　　　　　書類¶
@@ -24,6 +26,7 @@
 　　　　乾隆四十六年七月恭校上¶
 　　　　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 尚書序
 <pb:KR1b0035_WYG_000-3a>¶
 尚書序¶
 　(此序孔安國所作以其上古帝王之書為後世所慕/尚故曰尚書序中言伏生年過九十失其本經口以)¶
@@ -132,4 +135,3 @@
 　¶
 　¶
 　尚書序¶
-
